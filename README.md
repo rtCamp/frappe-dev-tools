@@ -2,7 +2,7 @@
 
 App for Frappe devs to go rocket 🚀
 
-![Frappe desk navbar color update](https://devarshi.pro/wp-content/uploads/2024/07/frappe-dev-tools-navbar-color.png)
+![frappe-dev-tools-navbar-color](https://github.com/rtCamp/frappe-dev-tools/assets/26240780/cb2d3768-9e08-4c6e-a930-293c628cddc3)
 
 ## Features
 
